@@ -20,7 +20,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-## Author
-
-This app is made by Jasper C.
-If you have any inquiries, email me at onetruemanok@gmail.com
